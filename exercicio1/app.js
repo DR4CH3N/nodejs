@@ -1,7 +1,21 @@
-import {artistas} from './moduloexercicio.mjs'
+import artistas from "./modulo.mjs";
 
-/* variavel contador (no caso i) vai valer 0 e caso for maior que 5 ele vai parar o loop. o i++ significa que ele vai acrescentando em 1 a cada loop feito */
+// for (let k = 0; k < artistas.length; k++) {
+//     console.log(artistas[k]);
+// }
 
-for (let i = 0; i<5; i++) {
-    console.log(artistas[i]);
-}
+ let i = 0;
+ while (i < artistas.length){
+    console.log(`${artistas[i]}`);
+     i++
+ }
+
+// let artistas 
+// let k = 0;
+
+// do {
+//   k = k + 1;
+//   result = result + k;
+// } while (k < 5);
+
+// console.log(artistas[k]);
