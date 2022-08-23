@@ -1,0 +1,14 @@
+COMANDOS NO TERMINAL NODE
+npm init -> configurar servidor nodeJS e criar arquivo package.json
+(OBS: no package.json SEMPRE coloque "type": "module" na primeira linha caso nao estiver no arquivo)
+type nul > (nome e extensão do arquivo) -> cria um arquivo novo
+npm install (nome do pacote)
+CTRL+C -> para o servidor (quando estiver rodando no terminal)
+
+
+COMANDOS NO TERMINAL (normal e node)
+cd -> change disk
+rd (nome do diretorio) -> apagar diretorio
+cd.. -> volta uma pasta atras
+cd/.. -> volta ao diretorio inicial (cd:/)
+mkdir (nome do diretorio) -> cria uma pasta nova
