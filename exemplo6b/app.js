@@ -21,6 +21,6 @@ app.get('/contato', (req, res) => {
 
 
 // configurando o servidor
-app.listen(8080, () => {
+app.listen(3000, () => {
     console.log('server express rodando...');
 })
