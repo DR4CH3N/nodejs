@@ -12,3 +12,8 @@ rd (nome do diretorio) -> apagar diretorio
 cd.. -> volta uma pasta atras
 cd/.. -> volta ao diretorio inicial (cd:/)
 mkdir (nome do diretorio) -> cria uma pasta nova
+
+coisas a fazer antes de mexer no nodeJS:
+npm install -g nodemon
+npm install express
+npm install mysql2 (caso for mexer com banco de dados)
